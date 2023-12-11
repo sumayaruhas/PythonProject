@@ -40,8 +40,18 @@ print(y)
 x = math.pi # value of pi
 print(x)
 
+# finding out maximum number
+print(max(1 , 3 , 6 , 3 , 7 , 9 , 2 , 5))
+#finding out minimum number
+print(min(1 , 3 , 6 , 3 , 7 , 9 , 2 , 5))
 
+# printing a complete number
 
+print(round(5 / 6 * pow(2 , 3) + 6))
+
+# trying to find out factorial of a number
+
+print(factorial(5))
 
 
 
